@@ -1,3 +1,5 @@
+## This is a markdown file
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
